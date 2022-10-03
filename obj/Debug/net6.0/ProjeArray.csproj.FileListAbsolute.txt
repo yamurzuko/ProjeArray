@@ -1,0 +1,15 @@
+/Users/ugurcanyagmur/Projects/ProjeArray/bin/Debug/net6.0/ProjeArray
+/Users/ugurcanyagmur/Projects/ProjeArray/bin/Debug/net6.0/ProjeArray.deps.json
+/Users/ugurcanyagmur/Projects/ProjeArray/bin/Debug/net6.0/ProjeArray.runtimeconfig.json
+/Users/ugurcanyagmur/Projects/ProjeArray/bin/Debug/net6.0/ProjeArray.dll
+/Users/ugurcanyagmur/Projects/ProjeArray/bin/Debug/net6.0/ProjeArray.pdb
+/Users/ugurcanyagmur/Projects/ProjeArray/obj/Debug/net6.0/ProjeArray.csproj.AssemblyReference.cache
+/Users/ugurcanyagmur/Projects/ProjeArray/obj/Debug/net6.0/ProjeArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurcanyagmur/Projects/ProjeArray/obj/Debug/net6.0/ProjeArray.AssemblyInfoInputs.cache
+/Users/ugurcanyagmur/Projects/ProjeArray/obj/Debug/net6.0/ProjeArray.AssemblyInfo.cs
+/Users/ugurcanyagmur/Projects/ProjeArray/obj/Debug/net6.0/ProjeArray.csproj.CoreCompileInputs.cache
+/Users/ugurcanyagmur/Projects/ProjeArray/obj/Debug/net6.0/ProjeArray.dll
+/Users/ugurcanyagmur/Projects/ProjeArray/obj/Debug/net6.0/refint/ProjeArray.dll
+/Users/ugurcanyagmur/Projects/ProjeArray/obj/Debug/net6.0/ProjeArray.pdb
+/Users/ugurcanyagmur/Projects/ProjeArray/obj/Debug/net6.0/ProjeArray.genruntimeconfig.cache
+/Users/ugurcanyagmur/Projects/ProjeArray/obj/Debug/net6.0/ref/ProjeArray.dll
